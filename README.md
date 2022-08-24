@@ -50,4 +50,3 @@ Whenever any product is added to the cart, the Cart page display no. of products
 ## Payment Page :
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/95957280/175780434-ff2e51f6-cac2-43ec-a6b6-fd837370f778.png)
-![Screenshot (994)](https://drive.google.com/file/d/162MT6ytDGdZi-j8MQGbbz4b66iLySYMw/view?usp=sharing) 
