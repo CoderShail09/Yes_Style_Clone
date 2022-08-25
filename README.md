@@ -2,7 +2,7 @@
 
 This project is a clone of yesstyle.com which is commerce related website where you can purchase top branded clothes for any one and send any where you want pan in serviceable pin-code .
 
-<a href="yestyle-final.vercel.app" target="_blank">Click here for Live demo</a>
+<a href="https://poetic-bavarois-03a171.netlify.app" target="_blank">Click here for Live demo</a>
 
 
 ## Tech Stack :
